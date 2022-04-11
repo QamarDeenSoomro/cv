@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.home1{
+    /* height: 1200px; */
+    width: 100%;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10%;
+    align-items: center;
+    background-image: url(./../images/bg1.jpg);
+    color: white;
+}
+
+.profile_img{
+    /* position: absolute; */
+    /* z-index: 8; */
+    /* left: 44%; */
+    /* top: 40%; */
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    /* z-index: -2; */
+}
